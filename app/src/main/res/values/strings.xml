@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">03_Rechner</string>
+    <string name="equals">=</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+    <string name="erg">xxx</string>
+    <string name="verlauf_speichern">Verlauf speichern</string>
+    <string name="verlauf">Verlauf</string>
+    <string name="back">Zurück zum Rechner</string>
+</resources>
